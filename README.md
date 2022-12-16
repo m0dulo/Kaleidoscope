@@ -1,4 +1,4 @@
-# 基于 LLVM 的 Kaleidoscope 语言自制编译器
+# 🐲 基于 LLVM 的 Kaleidoscope 语言自制编译器
 基于 LLVM 的 Kaleidoscope 语言自制编译器实践、个人学习体会和相关文档翻译
 ## 组织结构
 每章逐步对 Kaleidoscope 语言编译器进行完善
